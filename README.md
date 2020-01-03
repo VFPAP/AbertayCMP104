@@ -9,6 +9,9 @@ During the first term of the first year, I developed this Fruit Machine in C++ f
 * Once the project is loaded, press CTRL+F5 to run the program without debugging.
 * Check the game rules and play!
 
+## Screenshot
+![screenshot](screenshot.png)
+
 ## Author
 **Vasco Pinto**
 <br>Twitter: [@0xVFPAP](https://twitter.com/0xVFPAP)
