@@ -12,6 +12,9 @@ During the first term of the first year, I developed this Fruit Machine in C++ f
 ## Screenshot
 ![screenshot](screenshot.png)
 
+## Report
+Read the project report [here](FruitMachine.pdf)
+
 ## Author
 **Vasco Pinto**
 <br>Twitter: [@0xVFPAP](https://twitter.com/0xVFPAP)
