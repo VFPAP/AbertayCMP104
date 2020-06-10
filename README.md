@@ -3,6 +3,7 @@ BSc (Hons) Ethical Hacking - 1st Year - Programming with C++
 
 ## Fruit Machine
 During the first term of the first year, I developed this Fruit Machine in C++ for the final assignment of this module.
+<br>Grade: A+
 
 ## How to Play
 * Download the zip file in this repository (FruitMachine.zip), extract to a folder and import the FruitMachine.sln file using Visual Studio 2019.
